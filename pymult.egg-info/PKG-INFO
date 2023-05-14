@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: pymult
+Version: 0.0.0
+Summary: A C++ library for multiplication
+Author: Zoey Hu
+Author-email: zoey.zyhu@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GPL License
+Classifier: Operating System :: Linux, MacOS
+Requires-Python: >=3.6
