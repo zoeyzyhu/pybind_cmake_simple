@@ -1,6 +1,6 @@
 # Python bindings for C++: pybind11 + cmake + setup.py
 
-This is a toy example showing how to create Python bindings to interface with a C++ library (with only a simple function) using CMake. Everything spreads out in the current directory for simplicity. 
+This is a toy example showing how to create Python bindings to interface with a C++ library (with only a simple function) using CMake. Everything spreads out in the current directory for simplicity. For a more structured approach, please see [`pybind_cmake_list`](https://github.com/zoeyzyhu/pybind_cmake_example). 
 
 ## Environment
 It runs on Linux and MacOS.
