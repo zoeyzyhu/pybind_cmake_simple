@@ -1,8 +1,0 @@
-README.md
-mult.cpp
-setup.py
-pymult.egg-info/PKG-INFO
-pymult.egg-info/SOURCES.txt
-pymult.egg-info/dependency_links.txt
-pymult.egg-info/requires.txt
-pymult.egg-info/top_level.txt
